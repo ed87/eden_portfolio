@@ -28,13 +28,13 @@ function Footer() {
           </h3>
         </Col>
         <Col md="4" className="footer-copywright">
-          <h3>Copyright © {year} Elshadai Tegegn</h3>
+          <h3>Copyright © {year} Eden Kibret</h3>
         </Col>
         <Col md="4" className="footer-body">
           <ul className="footer-icons">
             <li className="social-icons">
               <a
-                href="https://github.com/elshadaik"
+                href="https://github.com/ed87"
                 style={{ color: "white" }}
                 target="_blank"
                 rel="noopener noreferrer"
@@ -44,7 +44,7 @@ function Footer() {
             </li>
             <li className="social-icons">
               <a
-                href="https://twitter.com/pour_qua"
+                href="https://twitter.com/edu_kibret"
                 style={{ color: "white" }}
                 target="_blank"
                 rel="noopener noreferrer"
@@ -54,7 +54,7 @@ function Footer() {
             </li>
             <li className="social-icons">
               <a
-                href="https://www.linkedin.com/in/elshadai-tegegn/"
+                href="https://www.linkedin.com/in/eden-kassie-4b2691229/"
                 style={{ color: "white" }}
                 target="_blank"
                 rel="noopener noreferrer"
@@ -64,7 +64,7 @@ function Footer() {
             </li>
             <li className="social-icons">
               <a
-                href="https://www.instagram.com/pour_qua"
+                href="https://www.instagram.com/edu_kibret"
                 style={{ color: "white" }}
                 target="_blank"
                 rel="noopener noreferrer"

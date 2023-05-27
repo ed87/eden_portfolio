@@ -22,9 +22,9 @@ import {
 function Techstack() {
   return (
     <Row style={{ justifyContent: "center", paddingBottom: "50px" }}>
-      <Col xs={4} md={3} className="tech-icons">
+      {/* <Col xs={4} md={3} className="tech-icons">
         <SiAmazonaws />
-      </Col>
+      </Col> */}
       <Col xs={4} md={3} className="tech-icons">
         <DiJavascript1 />
       </Col>

@@ -19,8 +19,8 @@ function Home2() {
               LET ME <span className="purple"> INTRO</span>DUCE MYSELF
             </h1>
             <p className="home-about-body">
-              I started programming in early 2019, when I joined Software
-              Engineering department at AAU.
+              I started programming in early 2019, when I joined Computer Science
+               department at AAU.
               <br />
               <br />I first started with Python then worked on web development
               for a while.
@@ -38,15 +38,7 @@ function Home2() {
                 <b className="purple">Geometry Processing</b>
               </i>
               <br />
-              <br />
-              I'm also a member of the Africa To Silicon Valley Organization
-              <b className="purple"> A2SV</b> where I
-              <i>
-                <b className="purple"> Mentor</b>
-              </i>
-              &nbsp; and
-              <b className="purple"> Practice</b> to be a great problem solver
-            </p>
+              </p>
           </Col>
           <Col md={4} className="myAvtar">
             <Tilt>
@@ -63,7 +55,7 @@ function Home2() {
             <ul className="home-about-social-links">
               <li className="social-icons">
                 <a
-                  href="https://github.com/elshadaik"
+                  href="https://github.com/ed87"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -73,7 +65,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://twitter.com/pour_qua"
+                  href="https://twitter.com/edu_kibret"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -83,7 +75,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://www.linkedin.com/in/elshadai-tegegn/"
+                  href="https://www.linkedin.com/in/eden-kassie-4b2691229/"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -93,7 +85,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://www.instagram.com/pour_qua"
+                  href="https://www.instagram.com/edu_kibret/"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour home-social-icons"
