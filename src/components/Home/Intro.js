@@ -19,23 +19,23 @@ function Home2() {
               LET ME <span className="purple"> INTRO</span>DUCE MYSELF
             </h1>
             <p className="home-about-body">
-              I started programming in early 2019, when I joined Computer Science
+               when I joined Computer Science
                department at AAU.
               <br />
-              <br />I first started with Python then worked on web development
+              <br />I first started coding with C++ then worked on web development
               for a while.
               <br />
               And my favorite coding language has been
               <i>
                 <b className="purple"> Javascript </b> and I'm conversant with
-                Java, Python and, sometimes C 🤯 I know!
+                Java, Python!
               </i>
               <br />
               <br />
               I'm highly interested in &nbsp;
               <i>
-                <b className="purple">Machine Learning </b> and also in{" "}
-                <b className="purple">Geometry Processing</b>
+                <b className="purple">Cyber Srcurity </b> and also in{" "}
+                <b className="purple">Ethical Hacking</b>
               </i>
               <br />
               </p>
